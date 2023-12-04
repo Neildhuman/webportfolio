@@ -1,6 +1,6 @@
 {
 	"capstone": {
-		"liveLink": "github page link",
+		"liveLink": "https://neildhuman.github.io/webportfolio/",
 		"name": "<Neil Leonard Acuña>",
 		"isMulti": false
 	}
